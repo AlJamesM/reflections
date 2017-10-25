@@ -6,10 +6,14 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
   It holds files that will trackable in git. Not all files needs to be tracked for changes.
-  This reduces clutter in the git repository. 
+  This reduces clutter in the git repository. You can control what changes or file with changes
+  to commit. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+  This allows only files with common logical changes to be committed, even if there are
+  other files with changes but not logically related.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?

@@ -20,6 +20,11 @@ organized? How would branches help?
 
   Epxeriments, new features, explore options - allows to take risk in experimentation.
 
+How do the diagrams hekp you visualize the branch structure?
+
+  I helps me see the relationships between commits and branches as well as it's unidirectional
+  parents.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
